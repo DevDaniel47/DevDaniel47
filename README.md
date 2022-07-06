@@ -6,7 +6,7 @@
 ✅Alura -- Git e Github<br><br>
 
 
-💻📚Cursando Engenharia de Software pela Cruzeiro do Sul Virtual -- 2/8👨‍🎓<br>
+💻📚Cursando Engenharia de Software pela Cruzeiro do Sul Virtual -- 3/8👨‍🎓<br>
 
 <div align="center" display="block">
   <a href="https://github.com/DevDaniel47">
