@@ -30,7 +30,11 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCyFh92yP5ONo8whPNqKiVcg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/daniel_47sp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:daniel.oliveira0622@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/3gxFBtaHv4XGzO4A9CDZLB" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spoti.fi/3O1x0EHe"></a>
+  <a href = "mailto:daniel.oliveira0622@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/DevDaniel47" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+  <a href="https://github.com/DevDaniel47" target="_blank"><img align="center" all="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div></a>
+
+
 # DevDaniel47
