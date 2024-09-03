@@ -1,12 +1,9 @@
-## Bem vindo!! Eu sou o Daniel Oliveira<br>
-👨‍💻Programador Java Web JR. com cursos pelo:<br>
-✅Senai -- Lógica de programação<br>
-✅Udemy -- HTML5 e CSS3 (avançado)<br>
-✅Alura -- Java JRE e JDK<br>
-✅Alura -- Git e Github<br><br>
+## Bem vindo ao meu perfil Daniel Oliveira<br>
 
+👨‍💻 Atualmente, atuo como Analista de Suporte Protheus para Estoque/ Custos na TOTVS<br>
+📚 Cursando Engenharia de Software pela Cruzeiro do Sul Virtual — 6º semestre/8º semestre<br>
+✅ Conhecimento nas linguagens de programação Java, ADVPL, TypeScript e JavaScript<br>
 
-💻📚Cursando Engenharia de Software pela Cruzeiro do Sul Virtual -- 3/8👨‍🎓<br>
 
 <div align="center" display="block">
   <a href="https://github.com/DevDaniel47">
@@ -15,13 +12,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  <img align="center" alt="Dani-TOTVS" height="30" width="40" src="https://logowik.com/content/uploads/images/totvs4333.jpg">
   <img align="center" alt="Dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dani-GitHub" height="30" width="40" src="https://gmap.pucrs.br/gmap/wp-content/uploads/2021/06/github.png">
-  <img align="center" alt="Dani-GitBash" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png">
-  <img align="center" alt="Dani-Java" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
 </div>
   
@@ -34,4 +30,4 @@
 </div></a>
 
 
-# DevDaniel47
+# Daniel Oliveira
